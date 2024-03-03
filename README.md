@@ -2,7 +2,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skyhustle&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhustle&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhustle&langs_icons=true&theme=tokyonight&count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
