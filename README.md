@@ -25,30 +25,21 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
 
 ---
 
-### Selected projects
-
-- 🏝️ **[The Oahu Edge](https://www.theoahuedge.news)** – AI‑powered decision-support platform for entrepreneurs, investors, and professionals operating in Hawaii.
-- 🛩️ **[JetShare](https://www.flyjetshare.com)** – Book a single seat on a private jet to top conferences, festivals, and sporting events.
-- 💰 **[Financial Brain](https://github.com/SkyHustle/FinancialBrain-public)** – Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.
-- 🧬 **[Virtual Cell](https://github.com/SkyHustle/virtual-cell)** – WebGL‑powered, realistic, design‑complete proposal for a computational biology SaaS platform.
-- 🎙️ **[Podcastic](https://github.com/SkyHustle/podcastic)** – Modern, feature‑rich podcast discovery and listening platform.
-- 🟣 **[Mega Solana Dapp](https://github.com/SkyHustle/mega-solana-dapp)** – Clean front end that interacts with the Solana blockchain.
-
----
+### Projects
 
 <table>
   <tr>
     <td width="50%">
       <img src="images/the-oahu-edge.png" width="100%" />
       <strong>🏝️ The Oahu Edge</strong><br/>
-      AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.<br/>
+      AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.
       🌐 <a href="https://www.theoahuedge.news">Demo</a>
     </td>
     <td width="50%">
       <img src="images/jetshare.png" width="100%" />
       <strong>🛩️ JetShare</strong><br/>
-      Book a single seat on a private jet to top conferences, festivals, and sporting events.<br/>
-      🌐 <a href="https://www.flyjetshare.com">Demo</a><br/>
+      Book a single seat on a private jet to top conferences, festivals, and sporting events.
+      🌐 <a href="https://www.flyjetshare.com">Demo</a>
       🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
     </td>
   </tr>
@@ -56,13 +47,14 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
     <td width="50%">
       <img src="images/financial-brain.png" width="100%" />
       <strong>💰 Financial Brain</strong><br/>
-      Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.<br/>
+      Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.
       🔗 <a href="https://github.com/SkyHustle/FinancialBrain-public">Repo</a>
     </td>
     <td width="50%">
       <img src="images/virtual-cell.png" width="100%" />
       <strong>🧬 Virtual Cell</strong><br/>
-      WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.<br/>
+      WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.
+      🌐 <a href="https://virtual-cell.vercel.app">Demo</a>
       🔗 <a href="https://github.com/SkyHustle/virtual-cell">Repo</a>
     </td>
   </tr>
@@ -70,13 +62,13 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
     <td width="50%">
       <img src="images/podcastic.png" width="100%" />
       <strong>🎙️ Podcastic</strong><br/>
-      Modern, feature‑rich podcast discovery and listening platform.<br/>
+      Modern, feature‑rich podcast discovery and listening platform.
       🔗 <a href="https://github.com/SkyHustle/podcastic">Repo</a>
     </td>
     <td width="50%">
       <img src="images/mega-solana.png" width="100%" />
       <strong>🟣 Mega Solana Dapp</strong><br/>
-      Clean front end that interacts with the Solana blockchain.<br/>
+      Clean front end that interacts with the Solana blockchain.
       🔗 <a href="https://github.com/SkyHustle/mega-solana-dapp">Repo</a>
     </td>
   </tr>
