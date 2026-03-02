@@ -33,3 +33,18 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
 - 🧬 **[Virtual Cell](https://github.com/SkyHustle/virtual-cell)** – WebGL‑powered, realistic, design‑complete proposal for a computational biology SaaS platform.
 - 🎙️ **[Podcastic](https://github.com/SkyHustle/podcastic)** – Modern, feature‑rich podcast discovery and listening platform.
 - 🟣 **[Mega Solana Dapp](https://github.com/SkyHustle/mega-solana-dapp)** – Clean front end that interacts with the Solana blockchain.
+
+---
+
+<table> 
+  <tr> 
+    <td width="50%">
+  <img src="images/toe-homepage.png" width="100%" />
+  <strong>The Oahu Edge</strong><br/>
+  AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.
+  🌐 <a href="https://www.theoahuedge.news">Live demo</a>
+  </td> 
+  <td width="50%"> <img src="images/project2.png" width="100%" />
+    </td> 
+  </tr> 
+</table>
