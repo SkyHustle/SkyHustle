@@ -74,7 +74,7 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
       🔗 <a href="https://github.com/SkyHustle/podcastic">Repo</a>
     </td>
     <td width="50%">
-      <img src="images/mega-solana-dapp-homepage.png" width="100%" />
+      <img src="images/mega-solana.png" width="100%" />
       <strong>🟣 Mega Solana Dapp</strong><br/>
       Clean front end that interacts with the Solana blockchain.<br/>
       🔗 <a href="https://github.com/SkyHustle/mega-solana-dapp">Repo</a>
