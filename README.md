@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry 👋
+## Hi, I'm Dmitry 👋
 
 📍 **Denver ↔ Honolulu**
 
@@ -13,15 +13,23 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-## A little bit about me
+---
 
-> Depending on how far you wanna go... Out of high school I played professional 🏀 in Europe for a few seasons. Even played for the Ukrainian Junior National team 🇺🇦 I have a degree in finance, worked as an analyst, bounced around a couple prop trading shops. For the past decade I've been tinkering and building web applications, some for money most for love. Lately I've been really obsessed with all the shiny ai tools. I def lean more toward building end-to-end products with functional pretty ui/ux than purely backend stuff.
+### About me
 
-## Projects
+I’m a **builder of end‑to‑end products** who loves taking ideas from zero to a polished, functional experience.
 
-- 🏝️ **[The Oahu Edge](https://www.theoahuedge.news)** - Ai powered decision-support platform for entrepreneurs, investors, and professionals operating in Hawaii
-- 🛩️ **[JetShare](https://www.flyjetshare.com)** - Book a single seat on a private jet to top conferences, festivals, and sporting events.
-- 💰 **[Financial Brain](https://github.com/SkyHustle/FinancialBrain-public)** - Local-first personal finance app for macOS. Aggregates accounts via SimpleFIN Bridge.
-- 🧬 **[Virtual Cell](https://github.com/SkyHustle/virtual-cell)** - WebGL powered, realistic, design-complete proposal for a computational biology SaaS platform
-- 🎙️ **[Podcastic](https://github.com/SkyHustle/podcastic)** - A modern, feature-rich podcast discovery and listening platform
-- 🟣 **[Mega Solana Dapp](https://github.com/SkyHustle/mega-solana-dapp)** - Clean front-end that interacts with the solana blockchain
+My background runs from **pro basketball in Europe** and **finance / prop trading** to over a decade of **designing and shipping web apps**, mostly for love, sometimes for money.
+
+These days I’m especially interested in **AI‑powered workflows**, **beautiful, fast UIs**, and products that feel genuinely useful in the real world.
+
+---
+
+### Selected projects
+
+- 🏝️ **[The Oahu Edge](https://www.theoahuedge.news)** – AI‑powered decision-support platform for entrepreneurs, investors, and professionals operating in Hawaii.
+- 🛩️ **[JetShare](https://www.flyjetshare.com)** – Book a single seat on a private jet to top conferences, festivals, and sporting events.
+- 💰 **[Financial Brain](https://github.com/SkyHustle/FinancialBrain-public)** – Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.
+- 🧬 **[Virtual Cell](https://github.com/SkyHustle/virtual-cell)** – WebGL‑powered, realistic, design‑complete proposal for a computational biology SaaS platform.
+- 🎙️ **[Podcastic](https://github.com/SkyHustle/podcastic)** – Modern, feature‑rich podcast discovery and listening platform.
+- 🟣 **[Mega Solana Dapp](https://github.com/SkyHustle/mega-solana-dapp)** – Clean front end that interacts with the Solana blockchain.
