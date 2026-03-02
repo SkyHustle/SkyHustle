@@ -39,13 +39,13 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
 <table>
   <tr>
     <td width="50%">
-      <img src="images/toe-homepage.png" width="100%" />
+      <img src="images/the-oahu-edge.png" width="100%" />
       <strong>🏝️ The Oahu Edge</strong><br/>
       AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.<br/>
       🌐 <a href="https://www.theoahuedge.news">Demo</a>
     </td>
     <td width="50%">
-      <img src="images/jetshare-homepage.png" width="100%" />
+      <img src="images/jetshare.png" width="100%" />
       <strong>🛩️ JetShare</strong><br/>
       Book a single seat on a private jet to top conferences, festivals, and sporting events.<br/>
       🌐 <a href="https://www.flyjetshare.com">Demo</a><br/>
@@ -54,7 +54,7 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/financialbrain-homepage.png" width="100%" />
+      <img src="images/financial-brain.png" width="100%" />
       <strong>💰 Financial Brain</strong><br/>
       Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.<br/>
       🔗 <a href="https://github.com/SkyHustle/FinancialBrain-public">Repo</a>
