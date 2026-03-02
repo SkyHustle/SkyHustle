@@ -60,7 +60,7 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
       🔗 <a href="https://github.com/SkyHustle/FinancialBrain-public">Repo</a>
     </td>
     <td width="50%">
-      <img src="images/virtualcell-homepage.png" width="100%" />
+      <img src="images/virtual-cell.png" width="100%" />
       <strong>🧬 Virtual Cell</strong><br/>
       WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.<br/>
       🔗 <a href="https://github.com/SkyHustle/virtual-cell">Repo</a>
