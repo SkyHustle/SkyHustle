@@ -36,19 +36,48 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
 
 ---
 
-<table> 
-  <tr> 
+<table>
+  <tr>
     <td width="50%">
-  <img src="images/toe-homepage.png" width="100%" />
-  <strong>🏝️ The Oahu Edge</strong><br/>
-  AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.
-  🌐 <a href="https://www.theoahuedge.news">Demo</a>
-  </td> 
-  <td width="50%">
-  <img src="images/jetshare-homepage.png" width="100%" />
-  <strong>🛩️ JetShare</strong><br/>
-  Book a single seat on a private jet to top conferences, festivals, and sporting events. 🌐 <a href="https://www.flyjetshare.com">Demo</a>
-  🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
-</td>
-  </tr> 
+      <img src="images/toe-homepage.png" width="100%" />
+      <strong>🏝️ The Oahu Edge</strong><br/>
+      AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.<br/>
+      🌐 <a href="https://www.theoahuedge.news">Demo</a>
+    </td>
+    <td width="50%">
+      <img src="images/jetshare-homepage.png" width="100%" />
+      <strong>🛩️ JetShare</strong><br/>
+      Book a single seat on a private jet to top conferences, festivals, and sporting events.<br/>
+      🌐 <a href="https://www.flyjetshare.com">Demo</a><br/>
+      🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="images/financialbrain-homepage.png" width="100%" />
+      <strong>💰 Financial Brain</strong><br/>
+      Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.<br/>
+      🔗 <a href="https://github.com/SkyHustle/FinancialBrain-public">Repo</a>
+    </td>
+    <td width="50%">
+      <img src="images/virtualcell-homepage.png" width="100%" />
+      <strong>🧬 Virtual Cell</strong><br/>
+      WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.<br/>
+      🔗 <a href="https://github.com/SkyHustle/virtual-cell">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="images/podcastic-homepage.png" width="100%" />
+      <strong>🎙️ Podcastic</strong><br/>
+      Modern, feature‑rich podcast discovery and listening platform.<br/>
+      🔗 <a href="https://github.com/SkyHustle/podcastic">Repo</a>
+    </td>
+    <td width="50%">
+      <img src="images/mega-solana-dapp-homepage.png" width="100%" />
+      <strong>🟣 Mega Solana Dapp</strong><br/>
+      Clean front end that interacts with the Solana blockchain.<br/>
+      🔗 <a href="https://github.com/SkyHustle/mega-solana-dapp">Repo</a>
+    </td>
+  </tr>
 </table>
