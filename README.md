@@ -2,7 +2,7 @@
 
 I’m a **builder of end‑to‑end products** who loves taking ideas from zero to a polished, functional experience.
 
-My background runs from **pro basketball in Europe** and **finance / prop trading** to over a decade of **designing and shipping web apps**, mostly for love, sometimes for money.
+My background runs from **pro basketball in Europe** and **finance / prop trading** to over a decade of **designing and shipping web applications**, mostly for love, sometimes for money.
 
 These days I’m especially interested in **AI‑powered workflows**, **beautiful, fast UIs**, and products that feel genuinely useful in the real world.
 
@@ -16,6 +16,8 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+---
 
 ### Projects
 
@@ -32,8 +34,6 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
       <strong>🛩️ JetShare</strong><br/>
       Book a single seat on a private jet to top conferences, festivals, and sporting events.
       🌐 <a href="https://www.flyjetshare.com">Demo</a>
-      🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
-    </td>
   </tr>
   <tr>
     <td width="50%">
