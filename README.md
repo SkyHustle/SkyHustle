@@ -1,10 +1,10 @@
 ## Hi, I'm Dmitry 👋
 
-I’m a **builder of end‑to‑end products** who loves taking ideas from zero to a polished, functional experience.
+I’m a full‑stack product builder obsessed with taking ideas from zero to something people actually want to use.
 
-My background runs from **pro basketball in Europe** and **finance / prop trading** to over a decade of **designing and shipping web applications**, mostly for love, sometimes for money.
+I’ve bounced from pro basketball in Europe to finance and prop trading, and for the past decade I’ve been designing and shipping web apps, mostly for the love, sometimes for the money.
 
-These days I’m especially interested in **AI‑powered workflows**, **beautiful, fast UIs**, and products that feel genuinely useful in the real world.
+Right now I’m deep into AI‑powered tools, fast, beautiful UIs, and turning random ideas into polished, real‑world products.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
