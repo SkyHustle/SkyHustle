@@ -40,11 +40,15 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
   <tr> 
     <td width="50%">
   <img src="images/toe-homepage.png" width="100%" />
-  <strong>The Oahu Edge</strong><br/>
+  <strong>🏝️ The Oahu Edge</strong><br/>
   AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.
-  🌐 <a href="https://www.theoahuedge.news">Live demo</a>
+  🌐 <a href="https://www.theoahuedge.news">Demo</a>
   </td> 
-  <td width="50%"> <img src="images/project2.png" width="100%" />
-    </td> 
+  <td width="50%">
+  <img src="images/jetshare-homepage.png" width="100%" />
+  <strong>🛩️ JetShare</strong><br/>
+  Book a single seat on a private jet to top conferences, festivals, and sporting events. 🌐 <a href="https://www.flyjetshare.com">Demo</a>
+  🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
+</td>
   </tr> 
 </table>
