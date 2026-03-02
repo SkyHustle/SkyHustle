@@ -68,7 +68,7 @@ These days I’m especially interested in **AI‑powered workflows**, **beautifu
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/podcastic-homepage.png" width="100%" />
+      <img src="images/podcastic.png" width="100%" />
       <strong>🎙️ Podcastic</strong><br/>
       Modern, feature‑rich podcast discovery and listening platform.<br/>
       🔗 <a href="https://github.com/SkyHustle/podcastic">Repo</a>
