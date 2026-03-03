@@ -2,7 +2,7 @@
 
 I’m a full‑stack product builder obsessed with taking ideas from zero to something people actually want to use.
 
-I’ve bounced from pro basketball in Europe to finance and prop trading, and for the past decade I’ve been designing and shipping web apps, mostly for the love, sometimes for the money.
+I’ve bounced from pro basketball in Europe to finance and prop trading, and for the past decade I’ve been designing and shipping web apps—mostly for love, sometimes for money.
 
 Right now I’m deep into AI‑powered tools, fast, beautiful UIs, and turning random ideas into polished, real‑world products.
 
@@ -21,48 +21,48 @@ Right now I’m deep into AI‑powered tools, fast, beautiful UIs, and turning r
 
 ---
 
-### Projects
+### Selected projects
 
 <table>
   <tr>
     <td width="50%">
       <img src="images/the-oahu-edge.png" width="100%" />
       <strong>🏝️ The Oahu Edge</strong><br/>
-      AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.
+      AI‑powered decision‑support platform for entrepreneurs, investors, and professionals operating in Hawaii.<br/>
       🌐 <a href="https://www.theoahuedge.news">Demo</a>
     </td>
     <td width="50%">
       <img src="images/jetshare.png" width="100%" />
       <strong>🛩️ JetShare</strong><br/>
-      Book a single seat on a private jet to top conferences, festivals, and sporting events.
-      🌐 <a href="https://www.flyjetshare.com">Demo</a>
+      Book a single seat on a private jet to top conferences, festivals, and sporting events.<br/>
+      🌐 <a href="https://www.flyjetshare.com">Demo</a> · 🔗 <a href="https://github.com/SkyHustle/jetshare">Repo</a>
+    </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="images/financial-brain.png" width="100%" />
       <strong>💰 Financial Brain</strong><br/>
-      Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.
+      Local‑first personal finance app for macOS, aggregating accounts via SimpleFIN Bridge.<br/>
       🔗 <a href="https://github.com/SkyHustle/FinancialBrain-public">Repo</a>
     </td>
     <td width="50%">
       <img src="images/virtual-cell.png" width="100%" />
       <strong>🧬 Virtual Cell</strong><br/>
-      WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.
-      🌐 <a href="https://virtual-cell.vercel.app">Demo</a>
-      🔗 <a href="https://github.com/SkyHustle/virtual-cell">Repo</a>
+      WebGL‑powered, design‑complete proposal for a computational biology SaaS platform.<br/>
+      🌐 <a href="https://virtual-cell.vercel.app">Demo</a> · 🔗 <a href="https://github.com/SkyHustle/virtual-cell">Repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="images/podcastic.png" width="100%" />
       <strong>🎙️ Podcastic</strong><br/>
-      Modern, feature‑rich podcast discovery and listening platform.
+      Modern, feature‑rich podcast discovery and listening platform.<br/>
       🔗 <a href="https://github.com/SkyHustle/podcastic">Repo</a>
     </td>
     <td width="50%">
       <img src="images/mega-solana.png" width="100%" />
       <strong>🟣 Mega Solana Dapp</strong><br/>
-      Clean front end that interacts with the Solana blockchain.
+      Clean front end that interacts with the Solana blockchain.<br/>
       🔗 <a href="https://github.com/SkyHustle/mega-solana-dapp">Repo</a>
     </td>
   </tr>
