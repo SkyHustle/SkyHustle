@@ -2,9 +2,9 @@
 
 I’m a full‑stack product builder obsessed with taking ideas from zero to something people actually want to use.
 
-I’ve bounced from pro basketball in Europe to finance and prop trading, and for the past decade I’ve been designing and shipping web apps—mostly for love, sometimes for money.
+I’ve bounced from pro basketball in Europe to finance in NYC, and for the past decade I’ve been designing and shipping web applications.
 
-Right now I’m deep into AI‑powered tools, fast, beautiful UIs, and turning random ideas into polished, real‑world products.
+Right now I’m deep into AI‑powered tools, fast, beautiful UIs, and turning random ideas into polished, real‑world products. I'm currently working on building personal financial infrastructure for people that value privacy, stay tuned.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
